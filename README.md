@@ -1,9 +1,10 @@
-# 🚲 Bikcraft
+# 🚲 exercicio-posicionamento 
 
-Projeto feito somente com HTML e CSS, usando principalmente Grid Layout e Flexbox.
+Pagina feita somente com HTML e CSS, explorando principalmente Grid Layout e Flexbox.
 
 ### Aprendizado
 
+* Grid Layout e Flexbox
 * Uso de variáveis no CSS
 * Dark/Light Mode de acordo com a preferência do navegador
 * Mudar cor do SVG com variável
