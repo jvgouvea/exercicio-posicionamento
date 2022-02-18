@@ -1,4 +1,4 @@
-# 🚲 exercicio-posicionamento 
+# 🚲 Exercício Posicionamento 
 
 Pagina feita somente com HTML e CSS, explorando principalmente Grid Layout e Flexbox.
 
